@@ -52,7 +52,7 @@ def fetched_transcript_to_text(fetched_transcript) -> str:
 
 def main() -> int:
     # ====== VARIABLES ======
-    YOUTUBE_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    YOUTUBE_URL = "https://www.youtube.com/watch?v=GJAQCRJZmic"
     OUTPUT_FILE = Path("D:/CODING/.data/youtube.txt")
     LANGS = ["fr", "en"]  # ordre de préférence
     # =======================
